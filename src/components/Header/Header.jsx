@@ -5,7 +5,7 @@ const Header = () => {
         <C.Container>
             <C.Header>
                 <C.Title>
-                    Controle de Finanças
+                    Controle de Finanças - Jesus Vicken
                 </C.Title>
             </C.Header>
         </C.Container>
